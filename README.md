@@ -1,3 +1,5 @@
+A functional React.js calculator utilizing the Math.js API. Styled after an old TI SR-51. I created this as an exercise to become more familiar with React.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
